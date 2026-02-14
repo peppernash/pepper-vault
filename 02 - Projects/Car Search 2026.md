@@ -6,13 +6,13 @@
 **Context:** #personal
 
 ## Requirements (Voice Dictated)
-*Capture Pat's dictated requirements below*
+*Voice message received 2026-02-14 03:02 AM - awaiting text summary*
 
 ### Vehicle Specifications
-- **Type:** 
-- **Brands/Models:** 
-- **Budget:** 
-- **Timeline:** 
+- **Type:** [Pending text confirmation]
+- **Brands/Models:** [Pending text confirmation]
+- **Budget:** [Pending text confirmation]
+- **Timeline:** [Pending text confirmation]
 
 ### Must-Have Features
 - 
