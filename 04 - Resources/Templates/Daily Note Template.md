@@ -16,7 +16,7 @@
 - [ ] 
 
 ---
-**Weather:** 
+**Weather:** [Get current: curl -s "wttr.in/Boston?u&format=%c+%t+·+%C+·+%h+humidity+·+%w+wind"]
 **Mood:** 
 **Energy:** /10
 
