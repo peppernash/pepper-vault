@@ -1,0 +1,349 @@
+{
+  "search_timestamp": "2026-02-14T03:26:20.089178",
+  "requirements": {
+    "current_vehicle": "Jeep Grand Cherokee Limited",
+    "current_payment": 405,
+    "location": "02184",
+    "timeline": "1-2 weeks",
+    "must_haves": [
+      "third row",
+      "suv/crossover"
+    ],
+    "preferred_features": [
+      "limited trim",
+      "heated seats",
+      "heated steering wheel",
+      "memory seats",
+      "sunroof"
+    ],
+    "target_brands": [
+      "jeep",
+      "toyota",
+      "volkswagen"
+    ],
+    "willing_to_travel": true
+  },
+  "searches_performed": [
+    {
+      "source": "autotrader",
+      "vehicle": "Jeep Grand Cherokee",
+      "result": {
+        "error": "Expecting value: line 1 column 1 (char 0)",
+        "make": "Jeep",
+        "model": "Grand Cherokee"
+      }
+    },
+    {
+      "source": "cars.com",
+      "vehicle": "Jeep Grand Cherokee",
+      "result": {
+        "source": "cars.com",
+        "make": "Jeep",
+        "model": "Grand Cherokee",
+        "search_url": "https://www.cars.com/shopping/results/",
+        "status": "template_ready",
+        "note": "Implement full scraping with BeautifulSoup"
+      }
+    },
+    {
+      "source": "autotrader",
+      "vehicle": "Toyota Highlander",
+      "result": {
+        "error": "Expecting value: line 1 column 1 (char 0)",
+        "make": "Toyota",
+        "model": "Highlander"
+      }
+    },
+    {
+      "source": "cars.com",
+      "vehicle": "Toyota Highlander",
+      "result": {
+        "source": "cars.com",
+        "make": "Toyota",
+        "model": "Highlander",
+        "search_url": "https://www.cars.com/shopping/results/",
+        "status": "template_ready",
+        "note": "Implement full scraping with BeautifulSoup"
+      }
+    },
+    {
+      "source": "autotrader",
+      "vehicle": "Toyota 4Runner",
+      "result": {
+        "error": "Expecting value: line 1 column 1 (char 0)",
+        "make": "Toyota",
+        "model": "4Runner"
+      }
+    },
+    {
+      "source": "cars.com",
+      "vehicle": "Toyota 4Runner",
+      "result": {
+        "source": "cars.com",
+        "make": "Toyota",
+        "model": "4Runner",
+        "search_url": "https://www.cars.com/shopping/results/",
+        "status": "template_ready",
+        "note": "Implement full scraping with BeautifulSoup"
+      }
+    },
+    {
+      "source": "autotrader",
+      "vehicle": "Toyota Sequoia",
+      "result": {
+        "error": "Expecting value: line 1 column 1 (char 0)",
+        "make": "Toyota",
+        "model": "Sequoia"
+      }
+    },
+    {
+      "source": "cars.com",
+      "vehicle": "Toyota Sequoia",
+      "result": {
+        "source": "cars.com",
+        "make": "Toyota",
+        "model": "Sequoia",
+        "search_url": "https://www.cars.com/shopping/results/",
+        "status": "template_ready",
+        "note": "Implement full scraping with BeautifulSoup"
+      }
+    },
+    {
+      "source": "autotrader",
+      "vehicle": "Volkswagen Atlas",
+      "result": {
+        "error": "Expecting value: line 1 column 1 (char 0)",
+        "make": "Volkswagen",
+        "model": "Atlas"
+      }
+    },
+    {
+      "source": "cars.com",
+      "vehicle": "Volkswagen Atlas",
+      "result": {
+        "source": "cars.com",
+        "make": "Volkswagen",
+        "model": "Atlas",
+        "search_url": "https://www.cars.com/shopping/results/",
+        "status": "template_ready",
+        "note": "Implement full scraping with BeautifulSoup"
+      }
+    }
+  ],
+  "financing_examples": [
+    {
+      "vehicle_price": 35000,
+      "down_payment": 0,
+      "loan_amount": 35000,
+      "monthly_payment": 588.35,
+      "term_months": 72,
+      "apr": 0.065,
+      "total_paid": 42361.02
+    },
+    {
+      "vehicle_price": 45000,
+      "down_payment": 0,
+      "loan_amount": 45000,
+      "monthly_payment": 756.45,
+      "term_months": 72,
+      "apr": 0.065,
+      "total_paid": 54464.17
+    },
+    {
+      "vehicle_price": 55000,
+      "down_payment": 0,
+      "loan_amount": 55000,
+      "monthly_payment": 924.55,
+      "term_months": 72,
+      "apr": 0.065,
+      "total_paid": 66567.32
+    }
+  ],
+  "dealer_contacts": [
+    {
+      "brand": "jeep",
+      "dealer": "Colonial Jeep Chrysler Dodge Ram (Marlborough)",
+      "search_status": "ready_for_implementation",
+      "inventory_url": "https://colonialjeepchryslerdodgerammarlborough.com/inventory",
+      "note": "Requires web scraping implementation"
+    },
+    {
+      "brand": "jeep",
+      "dealer": "Herb Chambers CJDR (Millbury)",
+      "search_status": "ready_for_implementation",
+      "inventory_url": "https://herbchamberscjdrmillbury.com/inventory",
+      "note": "Requires web scraping implementation"
+    },
+    {
+      "brand": "jeep",
+      "dealer": "Boch CJDR (Norwood)",
+      "search_status": "ready_for_implementation",
+      "inventory_url": "https://bochcjdrnorwood.com/inventory",
+      "note": "Requires web scraping implementation"
+    },
+    {
+      "brand": "toyota",
+      "dealer": "Herb Chambers Toyota (Boston)",
+      "search_status": "ready_for_implementation",
+      "inventory_url": "https://herbchamberstoyotaboston.com/inventory",
+      "note": "Requires web scraping implementation"
+    },
+    {
+      "brand": "toyota",
+      "dealer": "Toyota of Braintree",
+      "search_status": "ready_for_implementation",
+      "inventory_url": "https://toyotaofbraintree.com/inventory",
+      "note": "Requires web scraping implementation"
+    },
+    {
+      "brand": "toyota",
+      "dealer": "Bernardi Toyota (Brockton)",
+      "search_status": "ready_for_implementation",
+      "inventory_url": "https://bernarditoyotabrockton.com/inventory",
+      "note": "Requires web scraping implementation"
+    },
+    {
+      "brand": "volkswagen",
+      "dealer": "Herb Chambers Volkswagen (Boston)",
+      "search_status": "ready_for_implementation",
+      "inventory_url": "https://herbchambersvolkswagenboston.com/inventory",
+      "note": "Requires web scraping implementation"
+    },
+    {
+      "brand": "volkswagen",
+      "dealer": "Volkswagen of South Shore (Norwell)",
+      "search_status": "ready_for_implementation",
+      "inventory_url": "https://volkswagenofsouthshorenorwell.com/inventory",
+      "note": "Requires web scraping implementation"
+    }
+  ],
+  "next_steps": [
+    "Implement web scraping for real inventory data",
+    "Set up price drop monitoring",
+    "Create dealer outreach templates",
+    "Schedule test drives for promising leads",
+    "Set up financing pre-approval process"
+  ],
+  "automated_alerts": [
+    {
+      "vehicle": "Jeep Grand Cherokee",
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "search_criteria": {
+        "location": "02184",
+        "radius": 50,
+        "price_max": 60000,
+        "year_min": 2020,
+        "features_required": [
+          "third row",
+          "suv/crossover"
+        ],
+        "features_preferred": [
+          "limited trim",
+          "heated seats",
+          "heated steering wheel",
+          "memory seats",
+          "sunroof"
+        ]
+      },
+      "notification_frequency": "daily",
+      "alert_created": "2026-02-14T03:26:25.801443"
+    },
+    {
+      "vehicle": "Toyota Highlander",
+      "make": "Toyota",
+      "model": "Highlander",
+      "search_criteria": {
+        "location": "02184",
+        "radius": 50,
+        "price_max": 60000,
+        "year_min": 2020,
+        "features_required": [
+          "third row",
+          "suv/crossover"
+        ],
+        "features_preferred": [
+          "limited trim",
+          "heated seats",
+          "heated steering wheel",
+          "memory seats",
+          "sunroof"
+        ]
+      },
+      "notification_frequency": "daily",
+      "alert_created": "2026-02-14T03:26:25.801462"
+    },
+    {
+      "vehicle": "Toyota 4Runner",
+      "make": "Toyota",
+      "model": "4Runner",
+      "search_criteria": {
+        "location": "02184",
+        "radius": 50,
+        "price_max": 60000,
+        "year_min": 2020,
+        "features_required": [
+          "third row",
+          "suv/crossover"
+        ],
+        "features_preferred": [
+          "limited trim",
+          "heated seats",
+          "heated steering wheel",
+          "memory seats",
+          "sunroof"
+        ]
+      },
+      "notification_frequency": "daily",
+      "alert_created": "2026-02-14T03:26:25.801465"
+    },
+    {
+      "vehicle": "Toyota Sequoia",
+      "make": "Toyota",
+      "model": "Sequoia",
+      "search_criteria": {
+        "location": "02184",
+        "radius": 50,
+        "price_max": 60000,
+        "year_min": 2020,
+        "features_required": [
+          "third row",
+          "suv/crossover"
+        ],
+        "features_preferred": [
+          "limited trim",
+          "heated seats",
+          "heated steering wheel",
+          "memory seats",
+          "sunroof"
+        ]
+      },
+      "notification_frequency": "daily",
+      "alert_created": "2026-02-14T03:26:25.801468"
+    },
+    {
+      "vehicle": "Volkswagen Atlas",
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "search_criteria": {
+        "location": "02184",
+        "radius": 50,
+        "price_max": 60000,
+        "year_min": 2020,
+        "features_required": [
+          "third row",
+          "suv/crossover"
+        ],
+        "features_preferred": [
+          "limited trim",
+          "heated seats",
+          "heated steering wheel",
+          "memory seats",
+          "sunroof"
+        ]
+      },
+      "notification_frequency": "daily",
+      "alert_created": "2026-02-14T03:26:25.801470"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "created": "2026-02-14T03:33:34.350893",
+  "analysis_for": "Pat Palingo - Car Search 02184",
+  "vehicles": {
+    "jeep_grand_cherokee_l": {
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "generation": "2021+ (WL Generation)",
+      "body_style": "3-row SUV",
+      "why_consider": "Familiar vehicle, knows features and driving experience",
+      "third_row": {
+        "availability": "Standard on L model",
+        "seating": "2+3+2 = 7 passengers",
+        "space": "Good for adults in 2nd row, kids in 3rd",
+        "access": "Fold-and-tumble 2nd row"
+      },
+      "target_trims": {
+        "Limited": {
+          "msrp_new": "$47,500+",
+          "used_range": "$35,000-45,000",
+          "standard_features": [
+            "Heated front seats",
+            "Heated steering wheel",
+            "Memory driver seat",
+            "Dual-zone climate",
+            "8.4-inch touchscreen",
+            "Apple CarPlay/Android Auto"
+          ]
+        },
+        "Overland": {
+          "msrp_new": "$52,000+",
+          "used_range": "$40,000-50,000",
+          "adds_to_limited": [
+            "Ventilated front seats",
+            "Heated 2nd row",
+            "Premium audio",
+            "Panoramic sunroof",
+            "Power liftgate",
+            "Advanced safety features"
+          ]
+        }
+      },
+      "pros": [
+        "Familiar vehicle - knows quirks and features",
+        "Strong towing capacity (6,200 lbs)",
+        "Good off-road capability",
+        "Comfortable highway driving",
+        "Available with all desired features"
+      ],
+      "cons": [
+        "Reliability concerns vs Toyota",
+        "Higher maintenance costs",
+        "Fuel economy mediocre (22/29 mpg)",
+        "3rd row tight for adults"
+      ],
+      "best_for_pat": "If he loves his current Jeep and wants familiarity",
+      "financing_estimate": "$672-756/month (40-45k used)"
+    },
+    "toyota_highlander": {
+      "make": "Toyota",
+      "model": "Highlander",
+      "generation": "2020+ (XU70 Generation)",
+      "body_style": "3-row SUV",
+      "why_consider": "Legendary reliability, excellent resale value",
+      "third_row": {
+        "availability": "Standard on all trims",
+        "seating": "2+3+2 = 8 passengers (bench) or 2+2+3 = 7 (captain's chairs)",
+        "space": "Better 3rd row space than Grand Cherokee",
+        "access": "Easy access with captain's chairs"
+      },
+      "target_trims": {
+        "Limited": {
+          "msrp_new": "$44,000+",
+          "used_range": "$35,000-42,000",
+          "standard_features": [
+            "Heated front seats",
+            "Leather upholstery",
+            "3-zone climate control",
+            "JBL premium audio",
+            "12.3-inch touchscreen",
+            "Wireless phone charging"
+          ]
+        },
+        "Platinum": {
+          "msrp_new": "$50,000+",
+          "used_range": "$40,000-48,000",
+          "adds_to_limited": [
+            "Heated steering wheel",
+            "Ventilated front seats",
+            "Heated 2nd row",
+            "Panoramic moonroof",
+            "Bird's eye view camera",
+            "Adaptive suspension"
+          ]
+        }
+      },
+      "pros": [
+        "Outstanding reliability record",
+        "Strong resale value",
+        "Excellent fuel economy (24/32 mpg hybrid)",
+        "Roomy 3rd row for class",
+        "Toyota Safety Sense 2.0 standard",
+        "Lower maintenance costs"
+      ],
+      "cons": [
+        "Less rugged than Jeep for off-road",
+        "Road noise at highway speeds",
+        "CVT transmission feel (non-hybrid)",
+        "Limited towing (5,000 lbs)"
+      ],
+      "best_for_pat": "If reliability and lower ownership costs are priority",
+      "financing_estimate": "$588-714/month (35-42k used)"
+    },
+    "toyota_sequoia": {
+      "make": "Toyota",
+      "model": "Sequoia",
+      "generation": "2023+ (Completely Redesigned)",
+      "body_style": "Full-size 3-row SUV",
+      "why_consider": "Premium features, most spacious 3rd row, Toyota reliability",
+      "third_row": {
+        "availability": "Standard on all trims",
+        "seating": "2+3+2 = 7 or 8 passengers",
+        "space": "Most spacious 3rd row - adults comfortable",
+        "access": "Power-folding 2nd row"
+      },
+      "target_trims": {
+        "Limited": {
+          "msrp_new": "$63,000+",
+          "used_range": "Limited used availability (too new)",
+          "standard_features": [
+            "Heated/ventilated front seats",
+            "Heated steering wheel",
+            "Memory seats",
+            "3-zone climate",
+            "14-inch touchscreen",
+            "Premium JBL audio",
+            "Panoramic moonroof"
+          ]
+        }
+      },
+      "pros": [
+        "Most spacious interior and cargo",
+        "Toyota reliability",
+        "Premium features standard",
+        "Strong towing capacity (9,000 lbs)",
+        "Hybrid powertrain available",
+        "Most comfortable for long trips"
+      ],
+      "cons": [
+        "Highest price point - may exceed budget",
+        "Limited used inventory (2023+ model)",
+        "Largest size - harder to park",
+        "Lower fuel economy despite hybrid"
+      ],
+      "best_for_pat": "Only if budget allows and needs maximum space",
+      "financing_estimate": "$925+ /month (55k+ even used)"
+    },
+    "volkswagen_atlas": {
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "generation": "2018+ (Facelifted 2021+)",
+      "body_style": "3-row SUV",
+      "why_consider": "European features, competitive price, roomy interior",
+      "third_row": {
+        "availability": "Standard on all trims",
+        "seating": "2+3+2 = 7 passengers",
+        "space": "Good 3rd row space, better than many competitors",
+        "access": "Fold-flat 2nd row seats"
+      },
+      "target_trims": {
+        "SEL": {
+          "msrp_new": "$38,000+",
+          "used_range": "$28,000-36,000",
+          "standard_features": [
+            "Heated front seats",
+            "Dual-zone climate",
+            "8-inch touchscreen",
+            "LED lighting",
+            "Blind spot monitoring",
+            "Rear cross-traffic alert"
+          ]
+        },
+        "SEL_Premium": {
+          "msrp_new": "$45,000+",
+          "used_range": "$32,000-42,000",
+          "adds_to_sel": [
+            "Heated steering wheel",
+            "Ventilated front seats",
+            "Memory seats",
+            "Panoramic sunroof",
+            "Premium Fender audio",
+            "Power liftgate"
+          ]
+        }
+      },
+      "pros": [
+        "Most affordable option for features",
+        "Roomy interior for all 3 rows",
+        "Good build quality and materials",
+        "Strong warranty (6yr/72k bumper-to-bumper)",
+        "European engineering and features"
+      ],
+      "cons": [
+        "VW reliability concerns historically",
+        "Higher maintenance costs than Toyota",
+        "Resale value lower than Toyota/Jeep",
+        "Less off-road capability"
+      ],
+      "best_for_pat": "Best value for premium features and space",
+      "financing_estimate": "$504-672/month (30-40k used)"
+    }
+  },
+  "recommendations": {
+    "if_prioritizing_familiarity": {
+      "choice": "Jeep Grand Cherokee L Limited",
+      "reasoning": "Knows the vehicle, comfortable with brand, has all desired features"
+    },
+    "if_prioritizing_reliability": {
+      "choice": "Toyota Highlander Limited/Platinum",
+      "reasoning": "Best long-term ownership experience, lower maintenance costs"
+    },
+    "if_prioritizing_value": {
+      "choice": "Volkswagen Atlas SEL Premium",
+      "reasoning": "Most features for the money, good space, competitive price"
+    },
+    "if_prioritizing_luxury": {
+      "choice": "Toyota Sequoia Limited (if budget allows)",
+      "reasoning": "Most premium features, space, and comfort"
+    }
+  },
+  "availability_insights": {
+    "jeep_grand_cherokee_l": "Good availability at CDJR dealers, many lease returns",
+    "toyota_highlander": "High demand, moves quickly, certified pre-owned program",
+    "toyota_sequoia": "Limited used availability - too new, mostly new inventory",
+    "volkswagen_atlas": "Moderate availability, good lease deals on new"
+  },
+  "next_research_steps": [
+    "Visit manufacturer websites for local inventory search",
+    "Call Toyota of Braintree for Highlander availability",
+    "Call Boch Norwood for Grand Cherokee L availability",
+    "Check Herb Chambers multi-brand availability",
+    "Research certified pre-owned vs used vs new pricing"
+  ]
+}

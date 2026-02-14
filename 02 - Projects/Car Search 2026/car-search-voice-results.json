@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-02-14T03:20:00Z",
+  "audio_file": "/home/pat/.openclaw/media/inbound/file_2---2413d1d7-fa13-4d48-bc23-e7f5e74eb35d.ogg",
+  "transcript": "I currently have a Jeep Grand. Cherokee LTD trim. That's the one with the third row. I don't mind returning to the same car. A third row is a need to have. I like the like The Limited trim options. That has heated seats. Heated steering wheel like memory for seat positions, Etc. Sunroof I'm in zip, code 02184, sorry. And don't mind traveling a little bit for a good deal. I need to wrap I would like to have a car wrapped up in the next one to two weeks and but I'm open to other brands like maybe Volkswagen Toyota in a similar price range. My current car payment is 4005 per month. I know that that's going to have to increase this time and so much substantially. But I want to make sure I'm getting a good deal.",
+  "confidence": 0.4355643391609192,
+  "requirements": {
+    "vehicle_type": "not specified",
+    "brands": [
+      "toyota",
+      "volkswagen",
+      "jeep"
+    ],
+    "budget": [
+      "4005"
+    ],
+    "features": [
+      "heated seats",
+      "sunroof",
+      "third row"
+    ],
+    "raw_transcript": "I currently have a Jeep Grand. Cherokee LTD trim. That's the one with the third row. I don't mind returning to the same car. A third row is a need to have. I like the like The Limited trim options. That has heated seats. Heated steering wheel like memory for seat positions, Etc. Sunroof I'm in zip, code 02184, sorry. And don't mind traveling a little bit for a good deal. I need to wrap I would like to have a car wrapped up in the next one to two weeks and but I'm open to other brands like maybe Volkswagen Toyota in a similar price range. My current car payment is 4005 per month. I know that that's going to have to increase this time and so much substantially. But I want to make sure I'm getting a good deal."
+  },
+  "ready_for_automation": true
+}
