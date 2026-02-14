@@ -70,17 +70,23 @@
 - [x] Financing scenario calculations
 - [x] Manual research action plan created
 
-## 📞 IMMEDIATE ACTIONS (This Weekend)
+## ✅ RESEARCH UPDATED: LEASE FOCUS (2025-2026)
 
-### Priority Dealer Calls:
-- [ ] **Toyota of Braintree** - Highlander Limited inventory
-- [ ] **Boch CDJR Norwood** - Grand Cherokee L availability
-- [ ] **Trade-in estimate** for current Jeep
+**MAJOR UPDATE:** Changed to **LEASE ONLY** for **2025-2026 models**
+- Target payments: $400-575/month (vs current $405)
+- All research refocused on newest models and lease deals
 
-### Online Research:
-- [ ] Toyota.com → Highlander → Build & Price Limited
-- [ ] Jeep.com → Grand Cherokee L → Build & Price Limited
-- [ ] VW.com → Atlas → Build & Price SEL Premium
+### 📧 DRAFT EMAILS READY (NOT SENT):
+- [x] **Toyota of Braintree** - Local advantage, $450-575/month target
+- [x] **Boch CDJR Norwood** - Brand loyalty, $475-625/month target  
+- [x] **Herb Chambers VW** - Conquest opportunity, $400-525/month target
+
+**See:** [[Lease-Research-and-Email-Summary]] for complete details
+
+### 📞 NEXT ACTIONS (When Ready):
+- [ ] **Review email drafts** and approve for sending
+- [ ] **Send dealer emails** to start negotiations  
+- [ ] **Schedule weekend test drives** based on responses
 
 ## Findings & Opportunities
 - Voice automation system fully operational

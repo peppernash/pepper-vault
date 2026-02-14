@@ -1,0 +1,163 @@
+{
+  "updated": "2026-02-14T03:51:09.948753",
+  "focus": "2025-2026 Lease Deals Only",
+  "requirements": {
+    "purchase_type": "LEASE ONLY (confirmed)",
+    "model_years": "2025-2026 only",
+    "current_payment": "$405/month",
+    "timeline": "1-2 weeks",
+    "location": "Braintree, MA (02184)",
+    "must_haves": [
+      "third row seating",
+      "SUV/crossover"
+    ],
+    "preferred_features": [
+      "Limited/Premium trim",
+      "heated seats/steering wheel",
+      "memory seats",
+      "sunroof"
+    ],
+    "target_brands": [
+      "Jeep",
+      "Toyota",
+      "Volkswagen"
+    ],
+    "lease_preference": "36-month lease preferred"
+  },
+  "target_vehicles": {
+    "toyota_highlander_2025_2026": {
+      "make": "Toyota",
+      "model": "Highlander",
+      "model_years": "2025, 2026",
+      "target_trim": "Limited, Platinum",
+      "msrp_range": "$44,000-50,000",
+      "lease_estimate": "$450-575/month (36mo)",
+      "lease_advantages": [
+        "Strong Toyota lease incentives",
+        "Excellent residual values",
+        "0.9-2.9% lease APR common",
+        "Multiple lease cash incentives"
+      ],
+      "specific_features": {
+        "Limited": "Heated seats/wheel, leather, JBL audio, 3-zone climate",
+        "Platinum": "Adds ventilated seats, panoramic roof, bird's eye camera"
+      },
+      "lease_notes": "Toyota often has $1,000-2,000 lease cash on Highlander"
+    },
+    "jeep_grand_cherokee_l_2025_2026": {
+      "make": "Jeep",
+      "model": "Grand Cherokee L",
+      "model_years": "2025, 2026",
+      "target_trim": "Limited, Overland",
+      "msrp_range": "$48,000-55,000",
+      "lease_estimate": "$475-625/month (36mo)",
+      "lease_advantages": [
+        "Stellantis lease incentives",
+        "Familiar vehicle for Pat",
+        "Strong lease programs on Grand Cherokee"
+      ],
+      "specific_features": {
+        "Limited": "Heated seats/wheel, memory seats, 8.4\" display, premium cloth",
+        "Overland": "Adds leather, ventilated seats, panoramic sunroof, premium audio"
+      },
+      "lease_notes": "Jeep typically offers competitive lease rates on Grand Cherokee L"
+    },
+    "vw_atlas_2025_2026": {
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "model_years": "2025, 2026",
+      "target_trim": "SEL, SEL Premium",
+      "msrp_range": "$38,000-46,000",
+      "lease_estimate": "$400-525/month (36mo)",
+      "lease_advantages": [
+        "VW aggressive lease programs",
+        "Lower MSRP = lower lease payments",
+        "Good lease incentives to move inventory"
+      ],
+      "specific_features": {
+        "SEL": "Heated seats, dual-zone climate, LED lighting, 8\" touchscreen",
+        "SEL_Premium": "Adds heated wheel, ventilated seats, panoramic roof, premium audio"
+      },
+      "lease_notes": "VW often has best lease deals to compete with Toyota/Honda"
+    }
+  },
+  "dealers": {
+    "toyota_dealers": [
+      {
+        "name": "Toyota of Braintree",
+        "address": "35 Wood Rd, Braintree, MA 02184",
+        "phone": "(781) 848-9300",
+        "distance_from_pat": "Local (same zip code)",
+        "lease_advantages": [
+          "Local dealer - easy for service",
+          "Large Toyota dealer - good inventory",
+          "Competitive lease rates"
+        ],
+        "contact_person": "Sales Manager (to be determined)",
+        "email_target": "General sales email or manager"
+      }
+    ],
+    "jeep_dealers": [
+      {
+        "name": "Boch Chrysler Jeep Dodge Ram",
+        "address": "1333 Boston Providence Turnpike, Norwood, MA",
+        "phone": "(781) 762-9900",
+        "distance_from_pat": "15 miles from Braintree",
+        "lease_advantages": [
+          "Large CDJR dealer group",
+          "Strong lease programs",
+          "Good Grand Cherokee L inventory"
+        ],
+        "contact_person": "Fleet/Lease Manager",
+        "email_target": "Sales or lease department"
+      },
+      {
+        "name": "Colonial Chrysler Jeep Dodge Ram",
+        "address": "184 Boston Post Rd W, Marlborough, MA",
+        "phone": "(508) 481-1000",
+        "distance_from_pat": "35 miles from Braintree",
+        "lease_advantages": [
+          "Large dealer - good lease inventory",
+          "Competitive Stellantis lease programs"
+        ]
+      }
+    ],
+    "vw_dealers": [
+      {
+        "name": "Herb Chambers Volkswagen of Boston",
+        "address": "1173 Commonwealth Ave, Boston, MA",
+        "phone": "(617) 783-1100",
+        "distance_from_pat": "12 miles from Braintree",
+        "lease_advantages": [
+          "Premium dealer group",
+          "Strong VW lease programs",
+          "Good Atlas inventory"
+        ],
+        "contact_person": "Sales Manager",
+        "email_target": "Sales department"
+      }
+    ]
+  },
+  "strategy": {
+    "negotiation_points": [
+      "Current vehicle: 2021+ Jeep Grand Cherokee Limited (trade-in)",
+      "Excellent credit assumed (based on current $405/month payment)",
+      "Ready to lease within 1-2 weeks",
+      "Considering multiple brands - competitive opportunity",
+      "Local repeat customer potential"
+    ],
+    "lease_terms_to_negotiate": [
+      "Monthly payment (target: $400-550/month)",
+      "Down payment (minimize, use trade-in)",
+      "Mileage allowance (12k vs 15k annual)",
+      "Lease cash incentives",
+      "Multiple security deposit discount",
+      "Wear and tear coverage"
+    ],
+    "timing_advantages": [
+      "February = good lease deals (pre-spring inventory clear)",
+      "End of month potential (sales quota pressure)",
+      "2026 model availability = latest features"
+    ]
+  }
+}
