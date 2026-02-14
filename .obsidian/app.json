@@ -1,0 +1,22 @@
+{
+  "theme": "obsidian",
+  "leftRibbonHiddenItems": {},
+  "rightRibbonHiddenItems": {},
+  "showLineNumber": false,
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": true,
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 - Inbox",
+  "attachmentFolderPath": "99 - Meta/Attachments",
+  "livePreview": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "tabSize": 2,
+  "useTab": false,
+  "vimMode": false,
+  "showUnsupportedFiles": false
+}
