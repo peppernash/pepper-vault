@@ -1,5 +1,5 @@
 #!/bin/bash
-# Start both OpenClaw sync and GitHub auto-commit
+# Start full Pepper vault sync (OpenClaw + GitHub + auto-pull)
 
 VAULT_DIR="$HOME/Documents/Pepper/99 - Meta"
 
@@ -21,10 +21,19 @@ else
     echo "ℹ️ GitHub auto-commit already running"
 fi
 
+# Start GitHub auto-pull in background
+if ! pgrep -f "auto-pull.sh" > /dev/null; then
+    cd "$VAULT_DIR" && ./auto-pull.sh &
+    echo "✅ GitHub auto-pull started"
+else
+    echo "ℹ️ GitHub auto-pull already running"
+fi
+
 echo "
 🔄 Full sync active:
 - Obsidian ↔ OpenClaw (every 5s)
-- GitHub commits (every 30min)
+- GitHub push (every 30min)
+- GitHub pull (every 5min)
 
 To stop: ./stop-full-sync.sh
 "
