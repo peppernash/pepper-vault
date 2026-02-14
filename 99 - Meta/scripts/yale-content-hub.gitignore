@@ -1,0 +1,32 @@
+# .gitignore for Yale Content Hub
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Office temporary files
+~$*
+*.tmp
+
+# Word backup files
+~WRL*.tmp
+
+# Excel temporary files
+~$*.xls*
+
+# PowerPoint temporary files
+~$*.ppt*
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# OneDrive sync files
+*.~$*

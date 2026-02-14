@@ -1,0 +1,31 @@
+# .gitignore for SecondBrain Obsidian Vault
+
+# Obsidian workspace settings (user-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+~$*
+*.swp
+*.swo
+*~
+
+# Obsidian cache
+.obsidian/cache/
+
+# Obsidian plugins (optional - remove if you want to sync plugins)
+# .obsidian/plugins/
+
+# Trash
+.trash/
